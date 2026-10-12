@@ -1,4 +1,4 @@
-# HAMKI-Assignment-14-Web-Image-Generator# HAMKI Assignment #14 - Web-based Image Generator
+# HAMKI Assignment #14 - Web-based Image Generator
 
 Author: Pekka Peltonen
 
